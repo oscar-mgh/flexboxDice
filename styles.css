@@ -1,6 +1,8 @@
+html {
+     background-color: #23262e;
+}
 body{
      margin: 0;
-     background-color: #232931;
 }
 .dado{
      display: flex;
